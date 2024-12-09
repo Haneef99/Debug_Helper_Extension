@@ -13,5 +13,5 @@ This Visual Studio Code extension helps developers quickly find solutions to err
 
 1. Install Visual Studio Code (if you haven’t already).
 2. Open the **Extensions** tab on the sidebar.
-3. Search for `Dev Helper - Error Search & Solution Finder`.
+3. Search for `Dev Helper`.
 4. Click on **Install**.
