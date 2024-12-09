@@ -1,4 +1,4 @@
-# Dev Helper - Error Search & Solution Finder
+# Debug Helper - Error Search & Solution Finder
 
 This Visual Studio Code extension helps developers quickly find solutions to errors and warnings in their code by integrating error diagnostics with web scraping and AI-powered suggestions. The extension allows you to view common solutions, browse web results, and even get AI-generated suggestions to resolve errors.
 
@@ -13,5 +13,5 @@ This Visual Studio Code extension helps developers quickly find solutions to err
 
 1. Install Visual Studio Code (if you haven’t already).
 2. Open the **Extensions** tab on the sidebar.
-3. Search for `Dev Helper`.
+3. Search for `Debug Helper`.
 4. Click on **Install**.
